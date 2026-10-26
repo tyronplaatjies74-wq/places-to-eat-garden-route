@@ -1,0 +1,10 @@
+# Garden Route Eat API - 200 Real Places
+> Verified GPS + Google Maps + Waze + Apple Maps for Garden Route restaurants.
+
+Endpoints:
+- /api/eat/knysna.json - 35 places inc 34 South
+- /api/eat/plettenberg-bay.json
+- /api/eat/george.json
+- /api/eat/mossel-bay.json
+- /api/eat/wilderness.json
+- /api/eat/sedgefield.json
